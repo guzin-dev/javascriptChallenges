@@ -12,7 +12,7 @@ Crie uma função que receba a idade da pessoa e retorne a quantidade de dias, c
 Crie uma função que receba número de 1 a 12 e retorne o mês correspondente, exemplo se colocar o número 2, o retorno deve ser “Fevereiro”.
 
 ## Arquivo 4 ♦
-Escreva uma função que recebe um valor booleano ou numérico. Se o parâmetro fornecido for booleano, o retorno deve ser o inverso.Por exemplo, se a entrada for false, retorna true. Se o parâmetro for numérico, o retorno deve ser o número inverso. Exemplo: se fornecer 1, o retorno deve ser -1. Se o parâmetro de entrada não for de nenhum dos tipos, retorna “Booelano ou Número esperados, mas o parâmetro é do tipo (tipo do parâmetro).
+Escreva uma função que recebe um valor booleano ou numérico. Se o parâmetro fornecido for booleano, o retorno deve ser o inverso.Por exemplo, se a entrada for false, retorna true. Se o parâmetro for numérico, o retorno deve ser o número inverso.
 
 ## Arquivo 5 ♦
 Escreva uma função que recebe dois números inteiros não negativos e realize a multiplicação deles. Porém não pode utilizar o operador de multiplicação.
